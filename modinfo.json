@@ -1,0 +1,12 @@
+{
+    "modid": "earlychiseling",
+    "name": "Early Chiseling",
+    "description": "Adds a chisel and a hammer that can be crafted and used before copper era.",
+    "type": "content",
+    "side": "universal",
+    "authors": ["XurxoMF"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.*"
+    }
+}

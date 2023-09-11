@@ -1,0 +1,11 @@
+{
+    "ingredientPattern": "ALS",
+    "ingredients": {
+        "A": { "type": "item", "code": "game:axe-*", "isTool": true },
+        "L": { "type": "block", "code": "game:log-*" },
+        "S": { "type": "item", "code": "game:stick" }
+    },
+    "width": 1,
+    "height": 3,
+    "output": { "type": "item", "code": "hammer-wood", "quantity": 1 }
+}
