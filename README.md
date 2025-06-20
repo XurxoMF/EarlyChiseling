@@ -22,4 +22,4 @@ _If you translate the mod to another language just send me the .json and languag
     -   Atack power: 1
 
 -   **Flint Chisel**
-    -   Durability: 100
+    -   Durability: 200
