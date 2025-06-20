@@ -1,6 +1,5 @@
 {
     "code": "hammer-wood",
-    "class": "ItemHammer",
     "storageFlags": 257,
     "attributes": {
         "toolrackTransform": {
